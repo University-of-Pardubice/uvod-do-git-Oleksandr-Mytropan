@@ -1,0 +1,9 @@
+*.log
+  # komentář
+  ! Negovaný pattern
+  Složka /        
+  /*.txt         
+ Složka/*.html
+  **/foo
+  **/foo/bar
+  /**
