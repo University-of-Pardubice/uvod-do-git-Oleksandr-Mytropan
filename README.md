@@ -1,4 +1,4 @@
-# Software_engineering1
+# Software_engineering
 ## Tabulka
 | Left columns  | Right columns |
 | ------------- |:-------------:|
