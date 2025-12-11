@@ -6,3 +6,4 @@
 | left bar      | right bar     |
 | left baz      | right baz     |
 pridano studentem2;
+programming;
