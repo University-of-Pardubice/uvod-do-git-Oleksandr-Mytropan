@@ -5,3 +5,4 @@
 | left foo      | right foo     |
 | left bar      | right bar     |
 | left baz      | right baz     |
+Added by Student 1
