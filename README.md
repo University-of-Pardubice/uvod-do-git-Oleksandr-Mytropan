@@ -6,3 +6,4 @@
 | left bar      | right bar     |
 | left baz      | right baz     |
 Added by Student 1
+Added again by student
